@@ -35,7 +35,7 @@ window :
      code : |1-
       PROCEDURE MyWindow()
       
-      info("teste")
+      info("test4234234e")
    -
      type : 180
      enabled : false
