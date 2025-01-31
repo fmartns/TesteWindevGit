@@ -16,7 +16,340 @@ window :
   height : 600
   widthClient : 798
   heightClient : 568
- controls : []
+ controls :
+  -
+    name : BTN_NoName1
+    identifier : 0x279cd0a700d07bb5
+    internal_properties : CQAAAAkAAAATiRnNs3Wr9qb/cZ2+rkNyqlhhaYWoSJXZzGVHb1ikhOGzXeNDox4BzCIEEf1bOeCTJD7TDEwl4yDK0X3oQRwF8AxUVIIlSxYvY/vuevvk8lVdcwoswiXN0uxTp/rBNovOsvoqi4a45Fc+zskXebKfIF/pdT0ZLoTeZPIghfS7uaBJy850nSrvAfbtFuRdGlmVDXR5AdqF0B2/lHBt4R1pjTh8N3AV3oNNYMHl2dpsmOv2zVeaRXnY7GzUSQ2+1ATToxB2yCLwKFb92nOJIQcNuJpdHeTMcaOoNr6Y9/JEa6l3gKY/o0+vnu6gO9rEiJC1pPw3jVprIzu4HNn5XE82PID41hH8iTJalVEyzSrmy/pupbB2u3LE8HVCU/p8KrrSCP7YT0G3fi/TUOr0NAykIetmd7gCTyb4qzi8mY4eeMCnVfDVcbz8EmuITnEBI3jWa2uRW+ynTZNrYuVwM20+BkhNZ7BvrkL451ZwBnmJr1ormTAKZZ+DQHHdyTaQz6VvUFEO/8wfG+fZa3JJ5ydSdF6Ur3/uqXG7xvstFVkBek1Xk/caSutCW8L1ti7FPFA5W91RpX3WCs5nidQ0iSg9j2S08kpJVHqRT0Z45JUQ/8LcYwhezwKsuwUWEroluuuQKfN8uRyF+088GKW7QEayoXeka+OXgF30k2Egp4zr3RRO2/NKo+HwswwdlNHZRiFpH1zJDJZMqVUvVMpA+eEtp65mFNvCabQ5dIv0tDfS3j4RTNEZVvivhgFOxPdimNXxD0zBqjF+jKEa0nbrjYs0O5laT4kN7+7CjtvHlVgugGxdyvkKL07aUn9qKXuNB4ydsIvXRmuit9vcBjGwhyKkCi5lROr1
+    properties :
+     x : 91
+     y : 129
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         info("sdasf")
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_NoName2
+    identifier : 0x279cd0a900d48394
+    internal_properties : CQAAAAkAAADQ+5Xl+nzQ9mrslZgk6tpAiHMsvFRU+wIHybrzRpXk1WV6b8xkmV83QiDnTIHm6xaNBiBpSz3TYhvRiFCSe+7/YNoIPJFOeHnWlBYFTX2OYQgWf3NC9iBOaj7mzfziepb9BqHhJicPdrB/JBRTB23g2PJcOMObE1adyT/ywy+8c2d/x8PVjZpUI6v5t54S5s2etfskTMByLrRxUDm4jljwKmOoOii6K5yORWX43kiN9aPuBHo5VITh7S2uhNDyU/nBCCu7uzSjSZkpmJ6YNmoZw5m+77usccQljFn4f63uufk9f5DsrP1G0AtgZa2psefl7EQ329TlkKLnuvE1vYSTS3uXYCRNnUDXo0zrecLKM7zAQYcCWX8G2dQOIZVfhU99hAqld/cNognaTetK449RrWSxDKMwRRfxecocwuX1nBDQNv/jp5EklZo5JM3LQIxpIdj212BYv6ZSgy2WHyxGX+YqOMRlg+rD1j9ExLOSdd/dJE/cueR7LYqw0/5kbEt2nORBr/raFxxakkiNZRagBbTTnnWIiP2Ee7qTyb1WYobdgv7MlAgckHvwsr6NZRrCr2jAc0Vj5GUC7rR2UWvB4NCX1fbJX9KAAgsOVsFHxy0S2ksiB9G40kDv9G53WcsjnzjloSKWSw63EcMlrG9IhnnlsM2xX4lT1qpMy5asv6WMAJyqKdSkngua7LU9fVtued1WLkgRrTxaPbSor/7DaiQz2Tlg8oxWlSYISmWdArVdsVqDKGvRFwYlavm4X+GYa8F6DFnBwXh+dbi6h2+6tew+mueBMLZOlXS3FytPHHgcOqySqtT6VNpamqVih/tHHbG7k5rO0c4sazCSvWmD5OvHQ/c=
+    properties :
+     x : 209
+     y : 63
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         info("dsdfasdf")
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : EDT_NoName1
+    identifier : 0x279cd0b500f9b3ad
+    internal_properties : CQAAAAkAAABT9Zto3S/GHqp955F5ORozNhIdmFE8Bue3Hma5Fr0IyJ4hKwAs5gjhOatPcHnDqVCJjZ9mirgTNMaDYr0fIBMDoFTWflSD8i5TvD1fYzfG4yy9IAqjk4/jXYDeAT0JXnbTlh/mia2f8FvoJGo0WeCQAdnoMJzDkAbZzGIkZMHDvPFYgtpYrQx5vs+I0pZlKOAtZjB7J1B9s28mNZuuw4l2cj7RwyN+R2SdiAQohkme5b7fYFq+5wAS0vrIn5/KZfxygiSdeVbMdlJakF6t9A+aEbdABeAzAGHBItq8S8e39LGErbHzScEhA4yJtfb9IApyxHXKSXmu18LnNLoxbcqI0WcbYy3eadQegjwy/jcqUpIOZkNwzqPH+7muFiu2+dm7Wm7cvTRf7tK6NTTtLD5BcU4BoegVJjJ91cXFaUep2ffqKSZomlnk51AAsVL9g41qfPhtkbQvVasHx3qLwJLVkqZha2PjGlfXGOCgQxKJh8tKYfd5WzSymBYK5ped+53/gxNy2Ie/B1IQiXRmKXMiCvkFf7S0Fm5bciuDbxGHiT7GxSMtgG2qRvYW3Qlpx9eqrsOoUeqdftN7yIBdf4H/QiJSSWtMjy3x7GWa42MpIU5Q5yBOqoGXkap8yb2F1KUDk9V/j+tFpe/DtBE01aTX38xDCClHN28zAcpWW2fyKf9lTErcd+LpTJPMcSeNiGFjiXJn5Kjk2E2z+/Eg7pplsk6k6yDLsgVfKHk3cFBML7/P45Omj+nsbhZmLEex+mj5Iqn///rZ9dD3NIKaa4XU9vaEqRwhUivyOf6rNxlqe0NaQj4SZbocYFF9ijGmYTThLmSnMtHudfAm5HlU3d1QY80ioFuiPlLiEMBl85o/BU7QB/kQ+pfPbR2F/VVBNicpFYy4jsFMxVbm1Xcp4xY+r5+KPaibyD3FcNHlY28pd7/crObqHgFTI/sqx71sjGIEpybX4jK3D5E1SOvIqJcdsKcjXALRXV7rsqxjU0iahEaoNVQcT26FjAIAkuPvtVtSKUb68bxqhDIK4l0YOn6Lm+zEWRRt848/zexWLLTPYQyxhc0u9GXfINS+JLOCwZLZ00LHubovp6o/KdKMqcpqzdI3eSiIhfouVjtQ7BbejvrXf87MOVRA8ygUdd9y0PjA6RQphn+tfdu2UmMxMfgRrJImGAnh6jCtz91jTMF82DjdB6R5dYmCMPSfHpk+TejUPBfMh3deA6L+3t2qqlQgtEEpo1sLnTzaro8U
+    properties :
+     x : 205
+     y : 225
+     width : 241
+     height : 31
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        type : 338
+        enabled : false
+      -
+        type : 339
+        enabled : false
+  -
+    name : EDT_Password
+    identifier : 0x279cd0bc077cccd2
+    internal_properties : CQAAAAkAAADwEpSR8JC2lvrnsdyGW6U2Dl7+AZSMgUypTHSNS9NMJL/YM2SbuEQy4ShMHMW/79eHiRUGQEHqOpPd8KcAeBiZK8pButWnayUjnfqeNXIto+kRFnd5cQTcIsZ/rwvZtakNKfAt35o/f8PKNaQ9fggpBIb+a7SM946zXcyA3K+IVoTC2PHL30S3BNe/+v4QBRIZRKNMEsOjJ92otUb2cA3Pw6siFbpYXcC9u46LtXSZwJfzplyjxt7R6gxUNhddyciMNajkSFk1t2JIQznHuaJGs6rGq//yrJKNd2LpuI+ATTbqe+Df+1rNTMH78o2FXlIOJG9BLmqy7fcDJ7paYtfj3h1qJCqFjdaoGFnR7xv8tv8ty09MEPKn0i1d2rXaldi74oTo55ak7XAQsN2+pY9JpN+zUnFoiccT+RLZv/85NGed4xGBo5FsxispamDVU+uMvizV0ZH4L1cYoTGy0sqJKsDKLDgmmgdrP6Nb15g9Xt17NBBBUCYaU5uEUSI1FUGH7JnjzMMMokK826tOuolG2hZR1QQC1VGbQiEn89Fy50Q/cROBAZcykIRst74uThV96KJtjRB1Wf7By+jjFIz9XyJvvd8GqsVSnuWSQj8BqQCXcqZo1q7chSkMIQzUbbb77k4VImzWVt9aA3XLf5ZiIJgsG+DUh1JHJfYciGEkGpU4c3au36qXHzQfJ/Wj/q20xrFLg7ZYhiNYKSdSq+u9VG5oLU3dbncy0DQ+pDpHFKvY0qLFW2UuY/Qy1qJEH8n9L9iA0LnB0ckouNwv9+O0qyX3+eABfFTzfugUdPLjUPiLv/bkGfa5Cs2h9sFx57r7tNqQZxYn9m9aZTnLEg+zYywU97a57aF64C+BXPVyhq98lTgyBFzG9c9/wDIcogzorAg9q7S0gFHxiy8I+6q6GFQFe/bah5SYmPsdZX9bsNDQwk+NPiAl/2PH9wgnS5or3uJzbwMwddOtVe+07dd1EuFCnb2HEYJTrESf2dqWSRp4JHHkyG7JFtR1wd8UCvyOKekLHc8MI7Ko9ViSTWTVhDqJ8S2zdq1pNuZpSdRq/u0SwBF0QLQJy5wAJxPqzFTmXf7mOzZx9AU2YoQ8mi2GJ0bXeB8V3aU8LkmKTofqQbO+gekt4OBQQnW9jJns0t3M+nVTaHxKO7Shq0/wEmXodaQ2yY2tWE3KldUAQD/sFo28XaVlME3JfHh2cbf0I0hHrTKxjqmNTuIr2dBMIa/UJ4KzCRB1tDJ2xm3hsAnqK1ySeXxRTHgOXUu201U4xU2nKtLYdOdpWmdZCI5sXj0R7YUlmoXNty7AKspTkPaPRg13aKxytR/hdgCTPIE8tYvlRwFZz3aEhySMGKxs8IlgPhAF0NkxWQVHKRRze6Ql38Qj//0JxxVqoz4hafd1YQsXP47j0UcSdFURKq2PnW0yzIOBGATkcG9okjvsPRLLopSHQMNBXrz0wjw3j+s=
+    properties :
+     x : 468
+     y : 68
+     width : 235
+     height : 37
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+         // Refuse entry
+         SetFocus(IMG_PIN)
+        type : 15
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        type : 338
+        enabled : false
+      -
+        type : 339
+        enabled : false
+      -
+        code : |1-
+         
+         // Highlight at each change of value
+         AnimationPlayOnControlProperty(MySelf,"Color",BTN_Remove.Color,MySelf.Color,250 ms)
+        type : 17
+  -
+    name : IMG_PIN
+    identifier : 0x279cd0bc077ecd30
+    internal_properties : CQAAAAkAAAAVVfN4VY5gcpEwWjWowNM6wch4LSNFa+RlpXb6uIokjz5Wm8TGWYeMCJiijaRTXlmhh/Zj3xoZzh3YAfB0uG2sJcmrUSH3+DqOG30AyGQeyJtZ0+7inEQooujrd6bu3lSPCffmDXP/rlHaD8d5eTkL8n47erIEzj5IOUvpBFiV6bFB8ed6Q1Yk7Z7nnYRGW8bvp5fZk7HvAMDIqlrzY0KanmJ437KTrFk6tMeGD1J5L3es2TBTpACaN0Y+GBMfOTU1RHYl2xmi8MHJwFYo1st9CJEoiGQ1YFTLNCdxWlYtDQXQzbXOuqIpOzkvI6+WLFXcadX6dMNBVxUFAZWVoT6+BiUOr60h3F5FkOrdVQZk2xCxdRMvhmlrDTELfJ0Mq0E2X5FxWcBVejROWUBpX7mPpO/rRMpIvI3i29XQ+x3eRhEyNsDPxPiPTk2m0xYjSPPZDHO1iF8ypH6AG5Qr1QeUPsxNXz4cfMo/6g2nh/CWS0KTdPaPhp2y8dTvGsdEC4IKvGnEL4BF4v2EjXLhMvmi4NG/DCWN9YYBn+8sekwCMXNGCFKn806dFLTp25vQrHThmiod2tI4Bx7iyb2WIk4OmY82hav9AvOi8V5guaOXtD5FD3Dns1/dvkuNCn2cuyL9+2wG+/+VwEWlDQ/z8tGxEg6d55yddjqOQNx8ep29VhCRTGKz9mjPhioJbnlhJuHAJw4JWSYh1WHkappCeftesA8UoRu5MxYtyxDYq5j92ztfU5pkFFIU+4VruZojGU+kRU/tWS+03wHovHz3iVCHQVC+76+nQvdmkYRmBeAK8bk9UP2sw7QbqvPgulmMUKwkOd9Z2uzb3zOM75VjmNDjlziJgT6wJH+sSmKn3n8YojfqH+s1XURzw450MSbG/oCTdibtCfbRc/ZZROVLpYKTesRXN3FJjg==
+    properties :
+     x : 468
+     y : 118
+     width : 235
+     height : 235
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         // Version 1
+         // Description 
+         // Visual PIN input
+         // Usage: This image control can be used as input in the password edit control. 
+         // To read the entered value by programming, use the edit control password directly.
+         
+         constant
+         	// Define the number of rows and columns of the square
+         	NUMBER_COLUMNS_ROWS			= 4
+         	// Define the size of the number as a percentage of the grid box
+         	SIZE_NUMBER_PERCENTAGE		= 0.75
+         	// Define the length of the code in number of characters
+         	SIZE_CODE					= 6
+         end
+         global
+         	// Define the style of the drawing
+         	gnBrushColor			is int	= RGB(110,126,219)
+         	gnTextColor				is int	= White
+         	gnSelectionColor		is int	= LightOrange	
+         	
+         global	
+         	gnWidth					is int
+         	gnHeight				is int
+         	garrNumbers				is array 10 int
+         	garrGrid				is array of NUMBER_COLUMNS_ROWS*NUMBER_COLUMNS_ROWS int
+         	garrNumberPosition		is array of 10 Points
+         	gnNumberSize			is int
+         	
+         	
+         // Initialize the arrays
+         for i = 1 _to_ 10
+         	garrNumbers[i]=i-1
+         end
+         for i = 1 _to_ NUMBER_COLUMNS_ROWS*NUMBER_COLUMNS_ROWS
+         	garrGrid[i]=i-1
+         end
+         
+         // Starts randomizing the order of numbers
+         InitRandom()
+         // Initial drawing with shuffle
+         Draw(True,True)
+         // Draw again at each size change
+         MyWindow..Process[trtResize] += Draw
+         // Indicates the expected length of the code
+         EDT_Password.Size = SIZE_CODE
+        type : 14
+      -
+        code : |1-
+         
+         // Ignores the click if the length of the PIN has been reached
+         if EDT_Password.Size>0 _and_ Length(EDT_Password) = EDT_Password.Size then
+         	return
+         end
+         // Adds the number to the password being entered
+         EDT_Password += ReadNumber(MouseXPos(mpControl),MouseYPos(mpControl))
+         ExecuteProcess(EDT_Password,trtChange)
+        type : 18
+     procedures :
+      -
+        name : Draw
+        procedure_id : 1701464265120992576
+        type_code : 14
+        code : |1+
+         procedure Draw(bForceDrawing=False, bAndSuflle=False)
+         
+         // Draws only if necessary 
+         // Optimization to draw only if necessary
+         if not bForceDrawing _and_ not (MyControl..Width<>gnWidth _or_ gnWidth..Default _or_ MyControl..Height<>gnHeight _or_ gnHeight..Default) then
+         	return
+         end
+         
+         if bAndSuflle then	
+         	// Shuffles an array of digits from 0 to 9
+         	ArrayShuffle(garrNumbers)
+         	// Shuffles an array of positions from 0 to N*N-1
+         	ArrayShuffle(garrGrid)
+         end
+         
+         // Size of the numbers and margin between each number
+         nNumberMarginSize	is int			= (Min(MyControl..Width,MyControl..Height)/(NUMBER_COLUMNS_ROWS*2))
+         // The margin is calculated proportionally
+         nMarginSize			is int			= nNumberMarginSize*0.1
+         // The number takes the remaining space
+         nNumberSize			is int			= nNumberMarginSize+nNumberMarginSize-nMarginSize
+         // Determines the drawing size to be in a centered square
+         nSideSize			is int			= nNumberSize * NUMBER_COLUMNS_ROWS + nMarginSize * (NUMBER_COLUMNS_ROWS-1)
+         // Offset to center the drawing
+         nOffsetX			is int			= MyControl..Width/2 - nSideSize/2
+         nOffsetY			is int			= MyControl..Height/2 - nSideSize/2
+         
+         // Resets the drawing
+         dStartDrawing(MyControl,dWithOpacity+dErase)
+         // Stores the size of a number 
+         gnNumberSize = nNumberSize
+         
+         // Calculates the size of a number with this font
+         MyCalculationControl is Control <- ControlCreate("STC_Text"+GetGUID(),typStatic)
+         MyCalculationControl..Visible	= False
+         MyCalculationControl..Font		= EDT_Password.Font
+         nNumberHeight	is int
+         nNumberWidth	is int
+         // Determines the largest possible size
+         MyCalculationControl..FontSize=1
+         while nNumberHeight<nNumberSize*SIZE_NUMBER_PERCENTAGE	
+         	MyCalculationControl..FontSize++
+         	nNumberWidth	= TextWidth(MyCalculationControl,"0")
+         	nNumberHeight	= TextHeight(MyCalculationControl,"0")
+         end
+         // Adjusts text size 
+         dFont(MyControl,MyCalculationControl..Font)	
+         ControlDelete(MyCalculationControl)
+         
+         // Draws all positions
+         for i = 1 _to_ garrGrid.Count
+         	// Gets the random position in the grid
+         	nPosition	is int	= garrGrid[i]
+         	
+         	// Index in the grid from 0 to N*N-1
+         	pointNumber	is point	
+         	pointNumber.X	= nPosition  modulo NUMBER_COLUMNS_ROWS
+         	pointNumber.Y	= (nPosition-pointNumber.X) / NUMBER_COLUMNS_ROWS	
+         	
+         	// Convert index to X Y position with margins
+         	pointNumber.X	= nOffsetX + pointNumber.X*nNumberSize +  (pointNumber.X)*nMarginSize
+         	pointNumber.Y	= nOffsetY + pointNumber.Y*nNumberSize +  (pointNumber.Y)*nMarginSize
+         	
+         	// Draw position background
+         	dRectangle(MyControl,pointNumber.X,pointNumber.Y,pointNumber.X+nNumberSize,pointNumber.Y+nNumberSize,gnBrushColor,gnTextColor)
+         	
+         	// Draw text of the number if it exists
+         	if i<=garrNumbers.Count  then
+         		garrNumberPosition[ garrNumbers[i]+1 ] = pointNumber
+         		dText(MyControl,pointNumber.X+nNumberSize/2-nNumberWidth/2,pointNumber.Y+nNumberSize/2-nNumberHeight/2,garrNumbers[i],gnTextColor)	
+         	end
+         end
+        type : 458752
+      -
+        name : ReadNumber
+        procedure_id : 1701464265121058112
+        type_code : 14
+        code : |1-
+         procedure ReadNumber(nXPosition,nYPosition) : string
+         pointNumber is point
+         for each pointNumber,nNumber of garrNumberPosition
+         	
+         	// If before the number
+         	if nXPosition < pointNumber.X  continue
+         	if nYPosition < pointNumber.Y  continue
+         	
+         	// If after the number
+         	if nXPosition > pointNumber.X + gnNumberSize  continue
+         	if nYPosition > pointNumber.Y + gnNumberSize  continue
+         	
+         	// Displays a selection mark for a short time (150ms)
+         	tStart			is time
+         	nAnimationTimer	is int	= Timer(animationBorder,10 ms)
+         	dRectangle(IMG_PIN,pointNumber.X ,pointNumber.Y,pointNumber.X + gnNumberSize, pointNumber.Y + gnNumberSize,Transparent,gnSelectionColor)
+         		INTERNAL PROCEDURE animationBorder()
+         			// Calculates the current color for this animation step
+         			tCurrent			is time
+         			dCurrentDuration	is duration	= 	tCurrent - tStart
+         			let rPercentage = Min(1,Max(0,dCurrentDuration.InMilliseconds / 150))
+         			if rPercentage = 1 then
+         				EndTimer(nAnimationTimer) 
+         				IMG_PIN.Draw(True)
+         			end	
+         		end
+         	// On the number
+         	return nNumber-1
+         end
+         return ""
+        type : 458752
+     procedure_templates : []
+     property_templates : []
+  -
+    name : BTN_Remove
+    identifier : 0x279cd0bc0782cd5f
+    internal_properties : CQAAAAkAAABfXvztn+StevCcdXb+BNW8EKPvqzPkK6RWOexq8yeg8G87H8JsPZLNc3u1XTgu0ovYU6m2T0kqyOZduFdv89v/S+yrW6KREfc94JWIQOrrdxXEqiyEtU9jVq5cdyHG/VQbh0VBeV0COuI7o9CHFsi6PZPLdTh1EvQuKKkHxYiuLmEZAOYY//+a6Hx1i9gRAEU+EL1+QBErfBztsOhpGyVdzFACj/I888CYOf23SKQ2A6UGXajOijUwDuBdb7ZB1TXVE67wN2USOBJ0AgA13xrwdEgoCPUutpnmfJkKLAZ+5b/lDjOHz5ba0AZjG+3yDNH30qRoqSCRsTZbFMZqpXYyjsiypb7xoB+pkYU4XCstbc7rBxDwTuedYiwynxy+UDq2Zf2Y/y2Lls/oRNU0wSCxBJSmjifjgPe/FvrYIOW7fvS1/Vf6TfBDS2U0UNq92pjeLO8iHJYIr2tmlvmKwOsRJFYrbxBJpe6BZ7+t1KFMod/FXGw48uo7Yi7PuHmboXkwuvRuD//6YIPHcnLYRujrNOS0V6SwVZi2F5q5wdh9T+lxZygrpOXYEbECcZhvB/nekWS82YAXowq9JZY3hf1fRO+zUil73xv17O5rdXZlE4kyL7UiyVXRrNOj6sMVQk/BQH3zWNS7FL/k22MDlv6SJOc/uR4KN4YYsxA8baQkfpsdN52R4gO3Y6tsICR5NuE4HyTXqfvcwMkpeFxikGukl/IY1CSnwLKwalsKQvr9pwvuFUl41FeJWcu3qguThOBnUB8sxWlKIa1E4ParE8/7fhqxZnFuk4wAuupOVkAgb3l0MMiNrOkdz+Tq57M0bU0scR+tWkJ95sAPxcOrwMFgAqUstnsc8EPVBx44/t+4AGA3a1zlT3Q4xnGuAagzudpxci5eBuFXJ8TjdseX4DRfGVKnrV23l3mdeTSHijY+xrHGoro3qoimcjHEMdit2800J1tVAirfx4UGg0ayTEU4OJh0HukJiO1lIB2JuCHDHz1uYHQTYqX1IIfC1WTg3IogDJwz0oMAdtfaQMOLC0kIgcwHQ61YSz4q5bAdVcABbyO0eoOeOQ==
+    properties :
+     x : 711
+     y : 69
+     width : 32
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Delete button
+         
+         
+        type : 14
+      -
+        code : |1-
+         
+         // Clear password
+         EDT_Password = ""
+        type : 18
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
@@ -42,6 +375,18 @@ window :
    -
      type : 230
      enabled : false
+  procedures :
+   -
+     name : New_Procedure
+     procedure_id : 1701464127673094817
+     type_code : 14
+     code : |1+
+      procedure New_Procedure()
+      
+      info("3232423")
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : CQAAAAkAAADK5VRGrL6CMKg+WL05YwwtrndNL0/9ind37qU+b3KLIKT68FFd+30t2hNyBB56mVVXCYws2VkEsROo1QA3iJVf1nlBvd7dIstEcz9q+b81
   original_name : Modele1
